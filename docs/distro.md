@@ -330,7 +330,7 @@ If the module is of type `Library`, whether the library should be added to the c
 
 **OPTIONAL**
 
-Defines whether or not the module is required. If omitted, then the module will be required. 
+Defines whether or not the module is required. If omitted, then the module will be required.
 
 Only applicable for modules of type:
 * `ForgeMod`
@@ -396,13 +396,13 @@ The artifact's download url.
 
 **OPTIONAL**
 
-If the module is required. Defaults to true if this property is omited. 
+If the module is required. Defaults to true if this property is omited.
 
 ### `Required.def: boolean`
 
 **OPTIONAL**
 
-If the module is enabled by default. Has no effect unless `Required.value` is false. Defaults to true if this property is omited. 
+If the module is enabled by default. Has no effect unless `Required.value` is false. Defaults to true if this property is omited.
 
 ---
 
